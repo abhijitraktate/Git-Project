@@ -6,4 +6,6 @@ feature 1 = Login - updated by team member for checking 3 way merging
 
 feature 2 = Logout
 
-bug3 = fixed
+bug1 = fixed
+
+bug2 = fixed
